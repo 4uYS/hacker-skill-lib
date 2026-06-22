@@ -1,5 +1,8 @@
 # Hacker Skill Library
 
+
+[中文](README.md) | [English](README.en.md)
+
 Hacker Terminal 技能资源库 —— 持续更新的终端技能集合
 
 ---
@@ -151,4 +154,4 @@ MIT License
 
 ---
 
-**Hacker Skill Library** · 爱折腾实验室 · 豆包 AI Agent Lab
+**Hacker Skill Library** · 爱折腾AI实验室（AI Agent Lab, AAL）
